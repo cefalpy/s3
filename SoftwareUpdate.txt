@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
